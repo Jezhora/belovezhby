@@ -1,6 +1,6 @@
 ---
 deployment:
   tasks:
-    - export REPOPATH=https://github.com/Jezhora/belovezhby.git*
+    - export REPOPATH=https://github.com/Jezhora/belovezhby*
     - export SITEPATH=/home/belovezhby/public_html/
     - /bin/rsync -rav --exclude '.git' --exclude '.cpanel.yml' --del $REPOPATH $SITEPATH

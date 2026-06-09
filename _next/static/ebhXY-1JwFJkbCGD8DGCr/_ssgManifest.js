@@ -1,1 +1,0 @@
-self.__SSG_MANIFEST=new Set(["\u002Ffertilizers\u002F[fertilizer]","\u002Ffertilizers\u002Fcategory\u002Fplants\u002F[category]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
